@@ -1,0 +1,2 @@
+# next-shadcnui
+Nextjs+shadcnui
